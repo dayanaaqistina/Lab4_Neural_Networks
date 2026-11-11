@@ -1,4 +1,4 @@
-# BSD3513 Lab Report 5 – Neural Network Activation Functions
+# BSD3513 Lab Report 4 – Neural Network Activation Functions
 
 ## Files
 - `relu_app.py` – ReLU activation function visualisation
